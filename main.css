@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    background-color: blueviolet;
+    border-radius: 10000;
+}
+span{
+    background-color: yellow;
+}
+.rang{
+    color: green;
+}
+h2{
+    text-align: center;
+    background-color: yellow;
+    color: green;
+}
+.radius{
+    border-radius: 1000;
+}
+.qwerty{
+    background-color: blueviolet;
+    color: white;
+}
+.qora{
+
+    background-color: black;
+    color: white;
+}
+.kok{
+    background-color: blue;
+    color: white;
+}
+.yashil{
+    background-color: green;
+    color: white;
+}
+.qizil{
+    background-color: red;
+    color: white;
+}
